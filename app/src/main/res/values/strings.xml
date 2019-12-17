@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppSumaResta</string>
+    <string name="txt_number1">Digite Numero 1</string>
+    <string name="txt_number2">Digite Numero 2</string>
+    <string name="rb1_sumar">Sumar</string>
+    <string name="rb2_restar">Restar</string>
+    <string name="rb3_multiplicar">Multiplicar</string>
+    <string name="rb4_dividir">Dividir</string>
+    <string name="button">CALCULAR</string>
+    <string name="tv_resultado">Resultado</string>
+</resources>
